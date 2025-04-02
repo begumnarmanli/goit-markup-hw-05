@@ -804,7 +804,7 @@ footer .container {
     
     }
    
-.modal-form-wrapper:hover {
+.modal-form-wrapper:focus-within {
   border-color: #4D5AE5; 
 }
 
